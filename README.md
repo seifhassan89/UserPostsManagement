@@ -12,7 +12,7 @@ To get started with this project, follow these steps:
 ## Installing
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/seifhassan89/user-posts-mangment
+git clone https://github.com/seifhassan89/user-posts-management
 ```
 2. Install Ruby and Ruby on Rails if you haven't already
 ```
